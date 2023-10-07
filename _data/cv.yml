@@ -1,120 +1,92 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
+    - name: Full Name
       value: Natalia (Shuixiunan) Zhang
     - name: Email
       value: <a href="mailto:zsxn21@mails.tsinghua.edu.cn">zsxn21@mails.tsinghua.edu.cn</a>
     - name: Research Interests
-      value: Game Theory, Reinforcement Learning
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Computer Science
-      institution: Tsinghua University
-      year: 2021.09 - PRESENT
-      description:
+    - title: Tsinghua University
+      institution: IIIS, Computer Science Major
+      description: 2021.09 - present
         - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 02, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>
+
+    - title: Hangzhou Xuejun High School
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research on Communication in Multi-Agent Reinforcement Learning
-      institution: IIIS
-      year: currently working
-      description: 
-        - Instructor: Prof. Zhixuan Fang
-        - Coorperator: Jiaxuan Jiang and Kaidi Fu
-
-    - title: Research on a Self-Developed Information Eliciting Model
-      institution: IIIS
-      year: 2023
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Instructor: Prof. Zhixuan Fang
-        - Coorperator: Weiliang Wang
-        #- Details: 
-
-    - title: "New Star" Academic Program on Real-Time Translucent Neural Rendering
-      institution: Department of Computer Science
-      year: 2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Instructor: Prof. Kun Xu
-        - Coorperator: Di An and Shuzhen Li
+        - Description 1.
+        - Description 2.
 
-- title: Projects
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
   type: time_table
   contents:
-    - title: Implementation and Improvement on a 3D Hierarchical Torus Network Topology and its Corresponding Deadlock-Free Routing Algorithm
-      year: 2023
-      description:
-        - Coorperator: Ran Tao
-        - Instructor: Prof. Kaisheng Ma
-        #- TODO 
-
-    - title: Distributed Computation on Matrix Multiplication with Concurrency
-      year: 2023
-      description:
-        - Coorperator: Xingchen Miu
-        - Instructor: Prof. Wei Xu and Prof. Mingyu Gao
-        #- TODO
-
-    - title: Implementation of RISC-V Processor Model with High Performance Cache
-      year: 2022
-      description:
-      - Instructor: Prof. Mingyu Gao
-        #- TODO
-
-    - title: Implementation of a Group of Machine Learning Model Including Random Forest and XGBoost
-      year: 2022
-      description:
-        - Instructor: Prof. Yang Yuan
-        #- TODO
-
-    - title: Implementation of Stochastic Algorithms for 2D Ising Model
-      year: 2022
-      description:
-        - Instructor: Prof. Yukai Wu
-        #- TODO
-
-    - title: Implementation of a Distributed Database Model
-      year: 2022
-      description:
-        - Instructor: Prof. Huanchen Zhang
-        #- TODO
-
-    - title: Multimedia Processing Based on FFmpeg
-      year: 2022
-      description:
-        - Instructor: Prof. Huanchen Zhang
-        #- TODO
-    
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 1921
       items: 
-        - <b>Scholarship of Institute for Interdisciplinary Information Core Technology, First Prize</b>
-    - year: 2021
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - <b>Freshman Scholarship, Second Prize</b>
-        - <b>Address at IIIS Opening Ceremony</b>
-    - year: 2018 - 2020
-      items: 
-        - <b>National Physics Olympiad, Second Prize</b>
-        - <b>Tsinghua Physics Camp, First Prize</b>
-        - <b>National English Proficiency Competition, Second Prize</b>
-        - <b>National Oral English Innovative Proficiency Contest, Second Prize</b>
+        - Max Planck Medal
 
-- title: Others
-  type: map
+- title: Academic Interests
+  type: nested_list
   contents:
-    - name: TOEFL
-      value: 102
-    - name: Programming
-      value: C & C++, LaTeX, Python, Matlab, etc.
-    - name: Student Work
-      value: Monitor of Yao 14 in 2021-2022
-    - name: Hobbies
-      value: Baseball & Softball (first round outfielder in the school team), Poems ("Ferrymen Cup" National Prize)
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
