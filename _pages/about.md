@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
+  address: >
+    <p><a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 14, <a href='https://iiis.tsinghua.edu.cn/en/'>IIIS</a>, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua</a></p>
+    <p>zsxn21@mails.tsinghua.edu.cn</p>
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Beijing, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am Natalia Zhang (张水秀南), an undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by the esteemed [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie broadly in theoretical computer science especially game theory, and I'm currently conducting research under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), and our research explores multi-agent reinforcement learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please refer to my <a href="{{ '/cv/' | relative_url }}">CV</a> for more details about me.
