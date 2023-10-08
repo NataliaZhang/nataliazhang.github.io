@@ -22,6 +22,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am Natalia Zhang (张水秀南), an undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
 
-My research interests lie broadly in theoretical computer science especially game theory, and I'm currently conducting research under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), and our research explores multi-agent reinforcement learning.
+My research interests lie broadly in theoretical computer science especially game theory. I'm currently conducting research under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), and our research explores multi-agent reinforcement learning.
 
 Please refer to my <a href="{{ '/cv/' | relative_url }}">CV</a> for more details about me.
