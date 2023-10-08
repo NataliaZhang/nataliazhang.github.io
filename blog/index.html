@@ -13,6 +13,19 @@ pagination:
     after: 3  # The number of links after the current page
 ---
 
+{% if site.hide_blog %}
+  {%- comment -%}
+  This is where you can put content or messages indicating that the blog is hidden.
+  {%- endcomment -%}
+  <h2> Sorry, the blog is not available.</h2>
+{% else %}
+  {%- comment -%}
+  This is your existing blog content that you want to hide or show.
+  {%- endcomment -%}
+
+  <!-- Your existing blog content here -->
+  <!-- You can keep the content you want to hide here -->
+
 <div class="post">
 
   {% assign blog_name_size = site.blog_name | size %}
@@ -166,3 +179,5 @@ pagination:
   {% include pagination.html %}
 
 </div>
+
+{% endif %}
