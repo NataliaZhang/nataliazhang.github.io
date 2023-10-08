@@ -14,10 +14,10 @@ profile:
   more_info: >
     <p>Beijing, China</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Welcome! I am Natalia Zhang (张水秀南), an undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
