@@ -22,7 +22,7 @@
       "institution": "Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University",
       "url": "https://iiis.tsinghua.edu.cn/",
       "area": "Computer Science",
-      "studyType": "undergraduate",
+      "studyType": "Undergraduate",
       "startDate": "2021.09",
       "endDate": "now",
       "score": "gpa 3.82",
@@ -32,6 +32,8 @@
     {
       "institution": "Hangzhou Xuejun High School",
       "url": "http://www.hzxjhs.com/",
+      "studyType": "High School ",
+      "area": "Physics Olympiad",
       "startDate": "2018.09",
       "endDate": "2021.06",
       "summary": "",
@@ -40,6 +42,7 @@
     {
       "institution": "Hangzhou Wenlan Middle School",
       "url": "http://www.hzwlhs.com/",
+      "studyType": "Middle School ",
       "startDate": "2018.09",
       "endDate": "2015.06",
       "summary": "",
@@ -96,26 +99,25 @@
     },
     {
       "title": "National Physics Olympiad, Second Prize",
-      "date": "2018 - 2020"
+      "date": "2019"
     },
     {
       "title": "Tsinghua Physics Camp, First Prize",
-      "date": "2018 - 2020"
+      "date": "2019"
     },
     {
       "title": "National English Proficiency Competition, Second Prize",
-      "date": "2018 - 2020"
+      "date": "2018"
     },
     {
       "title": "National Oral English Innovative Proficiency Contest, Second Prize",
-      "date": "2018 - 2020"
+      "date": "2018"
     }
   ],
   "projects": [
     {
       "name": "Implementation and Improvement on a 3D Hierarchical Torus Network Topology and its Corresponding Deadlock-Free Routing Algorithm",
-      "url": "",
-      "date": "2023",
+      "startDate": "2023",
       "summary": "",
       "highlights": [
         "Cooperator: Ran Tao",
@@ -124,8 +126,7 @@
     },
     {
       "name": "Distributed Computation on Matrix Multiplication with Concurrency",
-      "url": "",
-      "date": "2023",
+      "startDate": "2023",
       "summary": "",
       "highlights": [
         "Cooperator: Xingchen Miu",
@@ -134,8 +135,7 @@
     },
     {
       "name": "Implementation of RISC-V Processor Model with High-Performance Cache",
-      "url": "",
-      "date": "2022",
+      "startDate": "2022",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Mingyu Gao"
@@ -143,8 +143,7 @@
     },
     {
       "name": "Implementation of a Group of Machine Learning Models Including Random Forest and XGBoost",
-      "url": "",
-      "date": "2022",
+      "startDate": "2022",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Yang Yuan"
@@ -152,8 +151,7 @@
     },
     {
       "name": "Implementation of Stochastic Algorithms for 2D Ising Model",
-      "url": "",
-      "date": "2022",
+      "startDate": "2022",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Yukai Wu"
@@ -161,8 +159,7 @@
     },
     {
       "name": "Implementation of a Distributed Database Model",
-      "url": "",
-      "date": "2022",
+      "startDate": "2022",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Huanchen Zhang"
@@ -170,8 +167,7 @@
     },
     {
       "name": "Multimedia Processing Based on FFmpeg",
-      "url": "",
-      "date": "2022",
+      "startDate": "2022",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Huanchen Zhang"
@@ -188,7 +184,7 @@
     },
     {
       "language": "Programming",
-      "fluency": ": C/C++, Python, Matlab, Latex, SQL, etc."
+      "fluency": "C/C++, Python, Matlab, Latex, SQL, etc."
     }
   ],
   "interests": [],
