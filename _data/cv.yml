@@ -3,34 +3,37 @@
   contents:
     - name: Full Name
       value: Natalia (Shuixiunan) Zhang
+    - name: url
+      value: <a href='https://nataliazhang.github.io/'>https://nataliazhang.github.io/</a>
     - name: Email
       value: <a href="mailto:zsxn21@mails.tsinghua.edu.cn">zsxn21@mails.tsinghua.edu.cn</a>
     - name: Research Interests
-      value: English, German
+      value: Game Theory, Reinforcement Learning
 
 - title: Education
   type: time_table
   contents:
     - title: Tsinghua University
-      institution: IIIS, Computer Science Major
-      description: 2021.09 - present
+      institution: Institute for Interdisciplinary Information Sciences (IIIS), Computer Science Major
+      year: 2021.09 - present
+      description:
+        - gpa 3.82
         - <a href='https://iiis.tsinghua.edu.cn/en/yaoclass/'>Yao Class</a> 02, <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>
 
     - title: Hangzhou Xuejun High School
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      year: 2018.09 - 2021.06
+    
+    - title: Hangzhou Wenlan Middle School
+      year: 2015.09 - 2018.06
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research on Communication in Multi-Agent Reinforcement Learning
+      institution: IIIS, Tsinghua
+      year: currently working
       description:
-        - Description 1.
+        - Instructor&#58 Prof. Zhixuan Fang
         - Description 2.
         - title: Description 3.
           contents:
