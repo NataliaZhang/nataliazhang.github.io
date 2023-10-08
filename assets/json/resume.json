@@ -117,8 +117,8 @@
   "projects": [
     {
       "name": "Implementation and Improvement on a 3D Hierarchical Torus Network Topology and its Corresponding Deadlock-Free Routing Algorithm",
-      "startDate": "2023",
-      "summary": "",
+      "startDate": "2023.07",
+      "summary": "2023.09",
       "highlights": [
         "Cooperator: Ran Tao",
         "Instructor: Prof. Kaisheng Ma"
@@ -126,7 +126,8 @@
     },
     {
       "name": "Distributed Computation on Matrix Multiplication with Concurrency",
-      "startDate": "2023",
+      "startDate": "2023.03",
+      "endDate": "2023.07",
       "summary": "",
       "highlights": [
         "Cooperator: Xingchen Miu",
@@ -135,7 +136,8 @@
     },
     {
       "name": "Implementation of RISC-V Processor Model with High-Performance Cache",
-      "startDate": "2022",
+      "startDate": "2022.10",
+      "endDate": "2022.12",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Mingyu Gao"
@@ -143,7 +145,8 @@
     },
     {
       "name": "Implementation of a Group of Machine Learning Models Including Random Forest and XGBoost",
-      "startDate": "2022",
+      "startDate": "2022.03",
+      "endDate": "2022.06",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Yang Yuan"
@@ -151,7 +154,8 @@
     },
     {
       "name": "Implementation of Stochastic Algorithms for 2D Ising Model",
-      "startDate": "2022",
+      "startDate": "2022.03",
+      "endDate": "2022.05",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Yukai Wu"
@@ -159,7 +163,8 @@
     },
     {
       "name": "Implementation of a Distributed Database Model",
-      "startDate": "2022",
+      "startDate": "2022.04",
+      "endDate": "2022.05",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Huanchen Zhang"
@@ -167,7 +172,8 @@
     },
     {
       "name": "Multimedia Processing Based on FFmpeg",
-      "startDate": "2022",
+      "startDate": "2022.05",
+      "endDate": "2022.07",
       "summary": "",
       "highlights": [
         "Instructor: Prof. Huanchen Zhang"
