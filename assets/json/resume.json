@@ -54,7 +54,7 @@
       "position": "Research on Communication in Multi-Agent Reinforcement Learning",
       "startDate": "2023.09",
       "endDate": "now",
-      "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
+      "summary": "Introduced truthfulness for agents and large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
         "Cooperator: Jiaxuan Jiang and Kaidi Fu"
@@ -64,7 +64,7 @@
       "position": "Research on a Self-Developed Information Eliciting Model",
       "startDate": "2023.04",
       "endDate": "2023.07",
-      "summary": "Researched and introduced large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
+      "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
         "Cooperator: Weiliang Wang"
