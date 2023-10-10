@@ -51,24 +51,21 @@
   ],
   "work": [
     {
-      "name": "Research on Communication in Multi-Agent Reinforcement Learning",
-      "position": "IIIS",
-      "url": "",
+      "position": "Research on Communication in Multi-Agent Reinforcement Learning",
       "startDate": "2023.09",
       "endDate": "now",
-      "summary": "",
+      "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
       "highlights": [
-        "Instructor: Prof. Zhixuan Fang",
+        "Instructor: Prof. Zhixuan Fang in IIIS",
         "Cooperator: Jiaxuan Jiang and Kaidi Fu"
       ]
     },
     {
       "name": "Research on a Self-Developed Information Eliciting Model",
       "position": "IIIS",
-      "url": "",
       "startDate": "2023.04",
       "endDate": "2023.07",
-      "summary": "",
+      "summary": "Researched and introduced large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang",
         "Cooperator: Weiliang Wang"
@@ -77,10 +74,9 @@
     {
       "name": "New Star Academic Program on Real-Time Translucent Neural Rendering",
       "position": "Department of Computer Science and Technology",
-      "url": "",
       "startDate": "2022.07",
       "endDate": "2022.10",
-      "summary": "",
+      "summary": "Developed real-time neural rendering techniques for translucent objects by utilizing deep learning to model subsurface scattering, with superior results compared to existing approximation methods",
       "highlights": [
         "Instructor: Prof. Kun Xu",
         "Cooperator: Di An and Shuzhen Li"
