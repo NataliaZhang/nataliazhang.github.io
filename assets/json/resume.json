@@ -25,7 +25,7 @@
       "studyType": "Undergraduate",
       "startDate": "2021.09",
       "endDate": "now",
-      "score": "gpa 3.83",
+      "score": "gpa 3.83/4.0",
       "summary": "",
       "courses": []
     },
@@ -36,7 +36,7 @@
       "area": "Physics Olympiad",
       "startDate": "2018.09",
       "endDate": "2021.06",
-      "summary": "",
+      "summary": "National College Entrance Examination 699/750",
       "courses": []
     },
     {
@@ -90,13 +90,13 @@
       "summary": "Integrate human feedback into imitation learning for offline multi-agent tasks, using a reward model to improve performance by filtering and optimizing offline datasets",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
-        "Paper: <a href='assets/pdf/IL_filtering.pdf'>PDF</a>"
+        "Paper: <a href='https://raw.githubusercontent.com/NataliaZhang/nataliazhang.github.io/master/assets/pdf/IL_filtering.pdf'>PDF</a>"
       ]
     },
     {
       "position": "Research on Communication in Multi-Agent Reinforcement Learning",
-      "startDate": "2024.09",
-      "endDate": "now",
+      "startDate": "2023.09",
+      "endDate": "2024.01",
       "summary": "Introduced truthfulness for agents and large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
@@ -245,10 +245,12 @@
   ],
   "interests": [
     {
-      "name": "Baseball and Softball"
+      "name": "Baseball and Softball",
+      "summary": "first round outfielder in the school team"
     },
     {
-      "name": "Poems"
+      "name": "Poems",
+      "summary": "Ferrymen Cup National Prize"
     }
   ],
   "references": []
