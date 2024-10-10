@@ -72,8 +72,8 @@
     },
     {
       "position": "Multi-Agent Reinforcement Learning from Human Feedback",
-      "startDate": "2023.03",
-      "endDate": "2023.08",
+      "startDate": "2024.03",
+      "endDate": "2024.08",
       "summary": "Initiated the work of Multi-Agent Reinforcement Learning from Human Feedback (MARLHF), combining theoretical analysis and empirical experiments on preference-only offline datasets and proposing new algorithmic techniques",
       "highlights": [
         "Instructor: Prof. Simon Du, Prof. Sham Kakade",
@@ -95,7 +95,7 @@
     },
     {
       "position": "Research on Communication in Multi-Agent Reinforcement Learning",
-      "startDate": "2023.09",
+      "startDate": "2024.09",
       "endDate": "now",
       "summary": "Introduced truthfulness for agents and large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
       "highlights": [
@@ -111,7 +111,7 @@
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
         "Cooperator: Weiliang Wang",
-        "Paper: <a href='assets/pdf/InformationElicitingModel.pdf'>PDF</a>"
+        "Paper: <a href='https://raw.githubusercontent.com/NataliaZhang/nataliazhang.github.io/master/assets/pdf/InformationElicitingModel.pdf'>PDF</a>"
       ]
     },
     {
