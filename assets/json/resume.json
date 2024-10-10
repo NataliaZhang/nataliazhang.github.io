@@ -4,11 +4,11 @@
     "label": "",
     "image": "",
     "email": "zsxn21@mails.tsinghua.edu.cn",
-    "phone": "18810255250",
+    "phone": "(+86)15988182747",
     "url": "https://nataliazhang.github.io/",
-    "summary": "An undergraduate student of computer science major in IIIS, Tsinghua",
+    "summary": "An undergraduate student of computer science major in IIIS, Tsinghua University",
     "location": {
-      "address": "Zijing No. 9, Tsinghua",
+      "address": "Zijing No. 9, Tsinghua University",
       "postalCode": "",
       "city": "Beijing",
       "countryCode": "China",
@@ -25,7 +25,7 @@
       "studyType": "Undergraduate",
       "startDate": "2021.09",
       "endDate": "now",
-      "score": "gpa 3.82",
+      "score": "gpa 3.83",
       "summary": "",
       "courses": []
     },
@@ -51,6 +51,79 @@
   ],
   "work": [
     {
+      "position": "Stabilizing Offline Reinforcement Learning with Imitation-Based Assistant Rewards",
+      "startDate": "2024.08",
+      "endDate": "now",
+      "summary": "Introduce an imitation-based assistant reward to improve early-stage training stability in offline reinforcement learning on the D4RL benchmark",
+      "highlights": [
+        "Instructor: Prof. Simon Du in UW",
+        "Cooperator: Xinqi Wang"
+      ]
+    },
+    {
+      "position": "LLM-Assisted Dataset Generation with Consistency Evaluation for RLHF",
+      "startDate": "2024.10",
+      "endDate": "now",
+      "summary": "Generate a consistency-weighted dataset using LLMs to augment limited human-labeled preferences for improved reward model training in offline RLHF tasks.",
+      "highlights": [
+        "Instructor: Prof. Zhixuan Fang in IIIS",
+        "Cooperator: Jiaxuan Jiang"
+      ]
+    },
+    {
+      "position": "Multi-Agent Reinforcement Learning from Human Feedback",
+      "startDate": "2023.03",
+      "endDate": "2023.08",
+      "summary": "Initiated the work of Multi-Agent Reinforcement Learning from Human Feedback (MARLHF), combining theoretical analysis and empirical experiments on preference-only offline datasets and proposing new algorithmic techniques",
+      "highlights": [
+        "Instructor: Prof. Simon Du, Prof. Sham Kakade",
+        "Cooperator: Xinqi Wang, Qiwen Cui, Runlong Zhou",
+        "Repo: <a href='https://github.com/NataliaZhang/Jax-MARLHF'>Jax-MARLHF</a>",
+        "Paper: <a href='https://arxiv.org/abs/2409.00717'>Arxiv</a>",
+        "ICLR 2025 Under Review"
+      ]
+    },
+    {
+      "position": "Reward Optimization of Imitation Learning in Offline Multi-Agent Games from Human Feedback",
+      "startDate": "2024.06",
+      "endDate": "2024.08",
+      "summary": "Integrate human feedback into imitation learning for offline multi-agent tasks, using a reward model to improve performance by filtering and optimizing offline datasets",
+      "highlights": [
+        "Instructor: Prof. Zhixuan Fang in IIIS",
+        "Paper: <a href='assets/pdf/Reward Optimization of Imitation Learning in Offline Multi-Agent Games from Human Feedback.pdf'>PDF</a>"
+      ]
+    },
+    {
+      "position": "Research on Communication in Multi-Agent Reinforcement Learning",
+      "startDate": "2023.09",
+      "endDate": "2024.01",
+      "summary": "Introduced truthfulness for agents and large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
+      "highlights": [
+        "Instructor: Prof. Zhixuan Fang in IIIS",
+        "Cooperator: Jiaxuan Jiang and Kaidi Fu"
+      ]
+    },
+    {
+      "position": "Research on a Self-Developed Information Eliciting Model",
+      "startDate": "2023.04",
+      "endDate": "2023.07",
+      "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
+      "highlights": [
+        "Instructor: Prof. Zhixuan Fang in IIIS",
+        "Cooperator: Weiliang Wang"
+      ]
+    },
+    {
+      "position": "New Star Academic Program on Real-Time Translucent Neural Rendering",
+      "startDate": "2022.07",
+      "endDate": "2022.10",
+      "summary": "Developed real-time neural rendering techniques for translucent objects by utilizing deep learning to model subsurface scattering, with superior results compared to existing approximation methods",
+      "highlights": [
+        "Instructor: Prof. Kun Xu in Department of Computer Science and Technology",
+        "Cooperator: Di An and Shuzhen Li"
+      ]
+    },
+    {
       "position": "Research on Communication in Multi-Agent Reinforcement Learning",
       "startDate": "2023.09",
       "endDate": "now",
@@ -67,7 +140,8 @@
       "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
-        "Cooperator: Weiliang Wang"
+        "Cooperator: Weiliang Wang",
+        "Paper: <a href='assets/pdf/Development on an Information Eliciting Model.pdf'>PDF</a>"
       ]
     },
     {
