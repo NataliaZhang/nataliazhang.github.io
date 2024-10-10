@@ -90,37 +90,7 @@
       "summary": "Integrate human feedback into imitation learning for offline multi-agent tasks, using a reward model to improve performance by filtering and optimizing offline datasets",
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
-        "Paper: <a href='assets/pdf/Reward Optimization of Imitation Learning in Offline Multi-Agent Games from Human Feedback.pdf'>PDF</a>"
-      ]
-    },
-    {
-      "position": "Research on Communication in Multi-Agent Reinforcement Learning",
-      "startDate": "2023.09",
-      "endDate": "2024.01",
-      "summary": "Introduced truthfulness for agents and large language model for communication in decentralized, partially observable multi-agent reinforcement learning, aimed at improving performance and transferability",
-      "highlights": [
-        "Instructor: Prof. Zhixuan Fang in IIIS",
-        "Cooperator: Jiaxuan Jiang and Kaidi Fu"
-      ]
-    },
-    {
-      "position": "Research on a Self-Developed Information Eliciting Model",
-      "startDate": "2023.04",
-      "endDate": "2023.07",
-      "summary": "Researched and developed a novel Information Eliciting Model incorporating a thinking hierarchy framework to uncover the truth within diverse perspectives, introducing metrics for measuring response hierarchy",
-      "highlights": [
-        "Instructor: Prof. Zhixuan Fang in IIIS",
-        "Cooperator: Weiliang Wang"
-      ]
-    },
-    {
-      "position": "New Star Academic Program on Real-Time Translucent Neural Rendering",
-      "startDate": "2022.07",
-      "endDate": "2022.10",
-      "summary": "Developed real-time neural rendering techniques for translucent objects by utilizing deep learning to model subsurface scattering, with superior results compared to existing approximation methods",
-      "highlights": [
-        "Instructor: Prof. Kun Xu in Department of Computer Science and Technology",
-        "Cooperator: Di An and Shuzhen Li"
+        "Paper: <a href='assets/pdf/IL_filtering.pdf'>PDF</a>"
       ]
     },
     {
@@ -141,7 +111,7 @@
       "highlights": [
         "Instructor: Prof. Zhixuan Fang in IIIS",
         "Cooperator: Weiliang Wang",
-        "Paper: <a href='assets/pdf/Development on an Information Eliciting Model.pdf'>PDF</a>"
+        "Paper: <a href='assets/pdf/InformationElicitingModel.pdf'>PDF</a>"
       ]
     },
     {
@@ -156,6 +126,10 @@
     }
   ],
   "awards": [
+    {
+      "title": "Comprehensive Scholarship in Tsinghua University",
+      "date": "2024"
+    },
     {
       "title": "Comprehensive Scholarship in Tsinghua University",
       "date": "2023"
@@ -262,13 +236,20 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Toefl 102, Fluent Speaking and Writing"
+      "fluency": "Toefl Best Score 109, Speaking 26"
     },
     {
       "language": "Programming",
-      "fluency": "C/C++, Python, Matlab, Latex, SQL, etc."
+      "fluency": "C/C++, Python, Pytorch, Matlab, Latex, SQL, etc."
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Baseball and Softball"
+    },
+    {
+      "name": "Poems"
+    }
+  ],
   "references": []
 }
