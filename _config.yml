@@ -208,7 +208,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - blog/example
+  - _posts/examples
 
 keep_files:
   - CNAME
