@@ -126,6 +126,7 @@ blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 hide_blog: false
 
+
 # Pagination
 pagination:
   enabled: true
@@ -207,6 +208,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - blog/example
+
 keep_files:
   - CNAME
   - .nojekyll
