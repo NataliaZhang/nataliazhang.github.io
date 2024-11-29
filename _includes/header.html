@@ -62,7 +62,7 @@
               </li>
               {%- endif %}
 
-              <!-- Other pages -->
+              <!-- Other pages
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
@@ -83,6 +83,7 @@
                   {% endfor %}
                 </div>
               </li>
+
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                 <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
@@ -92,8 +93,10 @@
                 </a>
               </li>
               {%- endif -%}
+
               {%- endif -%}
-              {% endfor -%}
+              {% endfor -%} -->
+              
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
