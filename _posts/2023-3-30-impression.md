@@ -2,7 +2,7 @@
 layout: post
 title: Impressions of Seattle
 date: 2024-3-30 15:56:00-0400
-description: 
+description: A journey through nature, animals and campus life in UW
 tags: internship
 # categories: sample-posts
 giscus_comments: false
@@ -41,14 +41,11 @@ Before I even had a chance to immerse my thoughts and intellect in this world, i
     </figure>
     <figure>
         <img src="{{ site.baseurl }}\assets\img\blog\internship\3.5.jpg" alt="Impression 5" style="max-width: 30%; height: auto;">
-        <figcaption><em>Huskies in action</em></figcaption>
+        <figcaption><em>Campus Library</em></figcaption>
     </figure>
     <figure>
         <img src="{{ site.baseurl }}\assets\img\blog\internship\3.6.jpg" alt="Impression 6" style="max-width: 30%; height: auto;">
         <figcaption><em>Huskies’ pride and energy</em></figcaption>
     </figure>
-    <!-- <figure>
-        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.7.jpg" alt="Impression 7" style="max-width: 30%; height: auto;">
-        <figcaption><em>Spring stroll under cherry trees</em></figcaption>
-    </figure> -->
 </div>
+
