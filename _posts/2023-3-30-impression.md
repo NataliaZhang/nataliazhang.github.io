@@ -24,18 +24,31 @@ Before I even had a chance to immerse my thoughts and intellect in this world, i
 
 <div style="text-align: center; margin-bottom: 20px;"> 
     <figure> 
-        <img src="..\assets\img\blog\internship\4.1.jpg" alt="TGIF Activity 1" style="max-width: 30%; height: auto;"> 
-        <figcaption><em>Diamond painting</em></figcaption> 
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.1.jpg" alt="Impression 1" style="max-width: 30%; height: auto;"> 
+        <figcaption><em>Rainy Seattle day</em></figcaption> 
     </figure> 
     <figure> 
-        <img src="..\assets\img\blog\internship\4.2.jpg" alt="TGIF Activity 2" style="max-width: 30%; height: auto;"> 
-        <figcaption><em>Ice carving</em></figcaption> 
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.2.jpg" alt="Impression 2" style="max-width: 30%; height: auto;"> 
+        <figcaption><em>Cherry blossoms in spring</em></figcaption> 
     </figure> 
     <figure> 
-        <img src="..\assets\img\blog\internship\4.3.jpg" alt="TGIF Activity 3" style="max-width: 30%; height: auto;"> 
-        <figcaption><em>Painting the night sky</em></figcaption> 
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.3.jpg" alt="Impression 3" style="max-width: 30%; height: auto;"> 
+        <figcaption><em>Campus blend of nature and learning</em></figcaption> 
     </figure> 
     <figure>
-        <img src="..\assets\img\blog\internship\4.4.jpg" alt="TGIF Activity 4" style="max-width: 30%; height: auto;">
-        <figcaption><em>Skiing at the summit</em></figcaption>
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.4.jpg" alt="Impression 4" style="max-width: 30%; height: auto;">
+        <figcaption><em>Crows symbolizing knowledge</em></figcaption>
+    </figure>
+    <figure>
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.5.jpg" alt="Impression 5" style="max-width: 30%; height: auto;">
+        <figcaption><em>Huskies in action</em></figcaption>
+    </figure>
+    <figure>
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.6.jpg" alt="Impression 6" style="max-width: 30%; height: auto;">
+        <figcaption><em>Huskies’ pride and energy</em></figcaption>
+    </figure>
+    <!-- <figure>
+        <img src="{{ site.baseurl }}\assets\img\blog\internship\3.7.jpg" alt="Impression 7" style="max-width: 30%; height: auto;">
+        <figcaption><em>Spring stroll under cherry trees</em></figcaption>
+    </figure> -->
 </div>
