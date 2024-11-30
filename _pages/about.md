@@ -29,3 +29,5 @@ I've been on a research internship at University of Washington, advised by [Prof
 I'm currently conducting research under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), and our research explores multi-LLM-annotators.
 
 Please refer to my <a href="{{ '/cv/' | relative_url }}">CV</a> for more academic details about me.
+
+I like sports especially softball. I am also an active participant in various campus activities. Check out my [blog](https://nataliazhang.github.io/blog/) for fun stories about me.
