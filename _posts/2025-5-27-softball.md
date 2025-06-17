@@ -1,16 +1,13 @@
 ---
 layout: post
-title: School Softball Team
+title: The Final Match of the Shuimu Cup
 date: 2025-5-27 00:52:00-0400
-description: The Final Game in Tsinghua
-tags: softball
+description: The Game That Stayed With Me
 # categories: sample-posts
 giscus_comments: false
 related_posts: false
 thumbnail: ../assets/img/blog/softball/cake.jpg
 ---
-
-## The Final Match of the Shuimu Cup — A Masterpiece in My College Softball Chapter
 
 The final game of the Shuimu Cup on May 25th, 2025 was, without a doubt, the most exhilarating match of my college years.
 
