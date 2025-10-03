@@ -20,13 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Natalia (Shuixiunan) Zhang, an undergraduate student majoring in Computer Science and Technology at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).
+Welcome! I am Natalia (Shuixiunan) Zhang, a Ph.D. student in the [Computing + Mathematical Sciences](https://cms.caltech.edu/) (CMS) department at [Caltech](https://www.caltech.edu/), advised by [Prof. Adam Wierman](https://adamwierman.com/) and [Prof. Eric Mazumdar](https://users.cms.caltech.edu/~mazumdar/).
 
-My research interests lie broadly in **machine learning** especially **reinforcement learning** (RL), **RL from human feedback** and **large language model** (LLM). 
-I'm also interested in algorithmic **game theory**, **social computing** and **mechanism design**.
+My research interests lie broadly in **machine learning theory** especially **reinforcement learning** (RL), **multi-agent systems** and **game theory**. I am also excited about connections to **LLM**, **social computing**, and **mechanism design**.
 
-I've been on a research internship at University of Washington, advised by [Prof. Simon Du](https://simonshaoleidu.com/), where I worked on preference-based multi-agent RL.
-I'm currently conducting research under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), and our research explores multi-LLM-annotators.
+Before joining Caltech, I completed my undergraduate studies in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).  
+I have conducted research internships at the University of Washington, advised by [Prof. Simon Shaolei Du](https://simonshaoleidu.com/), where I worked on preference-based multi-agent reinforcement learning, and at Tsinghua University, under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), exploring learning with multiple LLM-annotators.
+
 
 Please refer to my <a href="{{ '/cv/' | relative_url }}">CV</a> for more academic details about me.
 
