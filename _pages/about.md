@@ -24,7 +24,7 @@ Welcome! I am Natalia (Shuixiunan) Zhang, a Ph.D. student in the [Computing + Ma
 
 My research interests lie broadly in **machine learning theory** especially **reinforcement learning** (RL), **multi-agent systems** and **game theory**. I am also excited about connections to **LLM**, **social computing**, and **mechanism design**.
 
-Before joining Caltech, I completed my undergraduate studies in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/yaoclass/), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)).  
+Before joining Caltech, I completed my undergraduate studies in Computer Science at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) (a.k.a. [**Yao Class**](https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm), directed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/en/People/Faculty/yaoqizhi.htm)).  
 I have conducted research internships at the University of Washington, advised by [Prof. Simon Shaolei Du](https://simonshaoleidu.com/), where I worked on preference-based multi-agent reinforcement learning, and at Tsinghua University, under the guidance of [Prof. Zhixuan Fang](https://people.iiis.tsinghua.edu.cn/~fang/), exploring learning with multiple LLM-annotators.
 
 
