@@ -4,6 +4,7 @@ title: The Final Match of the Shuimu Cup
 date: 2025-5-27 00:52:00-0400
 description: The Game That Stayed With Me
 # categories: sample-posts
+tags: softball
 giscus_comments: false
 related_posts: false
 thumbnail: ../assets/img/blog/softball/cake.jpg

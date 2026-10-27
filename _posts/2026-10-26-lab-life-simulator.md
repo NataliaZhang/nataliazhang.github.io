@@ -3,7 +3,7 @@ layout: post
 title: Lab Life Simulator
 date: 2026-10-26 22:12:00-0700
 description: A tiny simulator for the very normal life of running a research lab
-tags: Lab-Life-Simulator
+tags: game
 # categories: sample-posts
 giscus_comments: false
 related_posts: false
